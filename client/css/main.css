@@ -19,13 +19,16 @@ nav ul {
 
 nav li {
     display: inline-block;
-    width: 33.3%;
+    width: 55px;
     height: 55px;
     padding-top: 35px;
     font-size: 10px;
     text-align: center;
     position: relative;
     color: #cccccc;
+    margin-left: calc(16.67vw - 28px);
+    margin-right: calc(16.67vw - 28px);
+
 }
 
 nav li img {
